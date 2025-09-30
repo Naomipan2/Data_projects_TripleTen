@@ -1,2 +1,4 @@
 # Data_projects_TripleTen
 My Data projects
+
+I have developed four end-to-end data science projects, demonstrating my ability to handle the complete machine learning workflow — from data exploration and preprocessing, to feature engineering, model training, evaluation, and business interpretation. These projects cover diverse domains including customer behavior analysis, time-series forecasting, anomaly detection, and profitability modeling. Each project showcases my proficiency in Python, machine learning libraries (scikit-learn, LightGBM, statsmodels), and data visualization, with a focus on building interpretable and production-ready solutions.
